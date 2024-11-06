@@ -40,4 +40,6 @@ I'll hang so you don't have to.
     <a href="https://linkedin.com/in/thomas-lawton">LinkedIn</a>
     <span> | </span>
     <a href="https://instagram.com/ratplatter">Instagram</a>
+    <span> | </span>
+    <a href="https://rodentia.cc">Personal</a>
 </p>
