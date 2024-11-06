@@ -42,4 +42,6 @@ I'll hang so you don't have to.
     <a href="https://instagram.com/ratplatter">Instagram</a>
     <span> | </span>
     <a href="https://rodentia.cc">Personal</a>
+    <span> | </span>
+    <a href="https://rodentia.cc/resume">Resume</a>
 </p>
