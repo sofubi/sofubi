@@ -1,47 +1,17 @@
-<p align="center">
-    <img src="images/its_me.jpg" />
-</p>
+![me_donkey](images/me_donkey.png)
 
----
-<p align="center">
-    <strong>Thomas Lawton</strong>
-    <br/>
-    Software Engineer at Numerated
-</p>
-<h4>Always:</h4>
-<pre>
-python
-sql
-</pre>
-<h4>Can:</h4>
-<pre>
-js
-bash
-php
-</pre>
-<h4>Will:</h4>
-<pre>
-go
-c
-nim
-</pre>
+### Thomas Lawton
 
-#### Currently:
-
-[dumpster](https://github.com/sofubi/dumpster)
-
-I'll hang so you don't have to.
+#### Senior Software Engineer, Moody's
 
 ---
 
-<p align="center">
-    <a href="https://x.com/bloneeAfterDark">Twitter</a>
-    <span> | </span>
-    <a href="https://linkedin.com/in/thomas-lawton">LinkedIn</a>
-    <span> | </span>
-    <a href="https://instagram.com/ratplatter">Instagram</a>
-    <span> | </span>
-    <a href="https://rodentia.cc">Personal</a>
-    <span> | </span>
-    <a href="https://rodentia.cc/resume">Resume</a>
-</p>
+Using Python to build developer, productivity, and "personal utility" tools.
+
+Playing rogue-likes, lifting weights, working on keyboards, and catering to my dog.
+
+Working writing and home servers into my day-to-day.
+
+---
+
+[LinkedIn](https://linkedin.com/in/thomas-lawton) -- [Blog](https://rodentia.cc) -- [Resume](https://rodentia.cc/resume)
